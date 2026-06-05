@@ -1,0 +1,14 @@
+# Ignore common editor and OS files
+.DS_Store
+Thumbs.db
+*.log
+
+# Ignore Node.js dependencies if used
+node_modules/
+
+# Ignore build/dist output
+dist/
+build/
+
+# Ignore environment files
+.env
